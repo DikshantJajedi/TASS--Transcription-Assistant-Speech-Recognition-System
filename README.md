@@ -6,12 +6,15 @@ Adding on to this, we can also perform the voice search just like google search.
 
 # Requirements
 1.Installation of python
+
    The entire system is build on python 2.7 is running on windows 8.1 and 10. About the Mac user, we are still clueless.
    The link for the installation of python is given below:
    https://www.python.org/downloads/
 
 2.Installation of pycharm (optional)
+
   PyCharm is an integrated development environment (IDE) used in computer programming, specifically for the Python language. 
+  
    Features:-
   (a)	Coding assistance and analysis, with code completion, syntax and error highlighting, quick fixes 
   (b)	Project and code navigation: specialized project views, file structure views and quick jumping between files, classes, methods and usages
@@ -23,6 +26,7 @@ Adding on to this, we can also perform the voice search just like google search.
    Download link for pycharm: https://www.jetbrains.com/pycharm/download/
 
 3. Install pip
+
    pip is the package installer for Python. You can use pip to install packages from the Python Package Index and other indexes.
    Download link for pip: https://pypi.org/project/pip/
 
@@ -30,7 +34,7 @@ Adding on to this, we can also perform the voice search just like google search.
    If you are importing the packages from the command prompt, you are required to run the following commands.
     •	pip install speechrecognition
     •	pip install pyaudio
-• pip install pygame
+    • pip install pygame
     •	pip install webbrowser
     •	pip install google-cloud-speech
 
