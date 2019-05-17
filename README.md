@@ -19,7 +19,7 @@ Adding on to this, we can also perform the voice search just like google search.
     PyCharm is an integrated development environment (IDE) used in computer
     programming, specifically for the Python language. 
   
-   Features:-
+   Features of pycharm:-
     
     (a)	Coding assistance and analysis, with code completion, 
     syntax and error highlighting, quick fixes
